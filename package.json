@@ -1,0 +1,13 @@
+{"name": "firebot",
+"version": "1.0",
+"description": "",
+"main": "index.js",
+"author": "dolog",
+"license": "ISC",
+"dependencies": {
+    "discord.js": "12.5.1"
+},
+"scripts": {
+    "starts":"node index"
+}
+}
